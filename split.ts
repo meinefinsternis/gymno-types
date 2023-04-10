@@ -1,4 +1,4 @@
-// https://www.typescript-training.com/course/making-typescript-stick/08-type-challenges/https://www.typescript-training.com/course/making-typescript-stick/08-type-challenges/
+// https://www.typescript-training.com/course/making-typescript-stick/08-type-challenges/
 
 // @errors: 2344
 type Expect<T extends true> = T
